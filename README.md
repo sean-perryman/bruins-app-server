@@ -17,18 +17,18 @@
 * Allow others to pull data?
 ---
 # To Do List
-[] Secure external API access
+[ ] Secure external API access
 or
-[] Set up so scores and data can be entered and stored manually
-[] Provision and configure VPS
-[] Decide on infrastructure
-  [] Ruby on Rails
-  [] PHP
-  [] Python
-[] Register domain name
-[] Create high-level website 
-[] Set up email address?
-[] Decide on data format
-[] Create initial API
-[] Set up other API routes
-[] Start polling and collecting data
+[ ] Set up so scores and data can be entered and stored manually
+[ ] Provision and configure VPS
+[ ] Decide on infrastructure
+  [ ] Ruby on Rails
+  [ ] PHP
+  [ ] Python
+[ ] Register domain name
+[ ] Create high-level website 
+[ ] Set up email address?
+[ ] Decide on data format
+[ ] Create initial API
+[ ] Set up other API routes
+[ ] Start polling and collecting data
